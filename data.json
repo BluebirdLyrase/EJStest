@@ -1,0 +1,17 @@
+{
+    "StudentID" : "6030213005",
+    "Fullname" : "Pisit Kaewfung",
+    "Major" : "Software Engineer",
+    "Skills" : [
+        "Magic Missile",
+        "Fireball",
+        "Lighting bolt",
+        "Kamehameha",
+        "Kikoken",
+        "Sokidan"
+        ],
+
+    "Gif" : ["1.gif",
+            "2.gif",
+            "3.gif"]
+}
